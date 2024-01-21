@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(54, 50, 105);
+}
+/* .collapse .navbar-nav .nav-item .nav-link{
+    text-decoration: underline;
+    color: #fff;
+} */
+
+ul li a{
+    text-decoration: underline;
+    color: #fff;
+}
+
+.nav-btn{
+    color: white;
+    border: 1px solid white;
+    margin-left: 0px;
+    border-radius: 2px 2px 2px 50px;
+}
+.nav-search{
+    color: red;
+    border: 2px solid black;
+    margin-left: 3px;
+    border-radius: 2px 50px 2px 2px;
+}
+
+
+.line{
+    height: 5px;
+    width: 35%;
+    background:white;
+    display: inline-block;
+}
+.navbar-nav a{
+    text-decoration:underline;
+    color: #fff;
+}
+
+
+
+/* -------------------contact---------------- */
+
+.contact{
+    background-color: rgba(101, 85, 64, 0.142);
+}
+.contact input{
+    border-radius: 15px;
+}
+.contact input:hover{
+    border: 1px solid black;
+    color: black;
+}
+
+
+/* -----------------------footer----------------- */
+.footer{
+    background-color: rgb(48, 48, 74);
+}
+.footer .inkedin{
+    color: blue;
+}
+.footer .facebook{
+    color: blue;
+}
+.footer .whatsapp{
+    color: green;
+}
+
+/* ----- join ------ */
+
+.you-logo{
+  font-size:xx-large;
+}
