@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+    background-color: rgb(54, 50, 105);
+}
+
+.nav-btn{
+    color: white;
+    border: 1px solid white;
+    margin-left: 0px;
+    border-radius: 2px 2px 2px 50px;
+}
+.nav-search{
+    color: red;
+    border: 2px solid black;
+    margin-left: 3px;
+    border-radius: 2px 50px 2px 2px;
+}
+
+
+.carousel-inner{
+    border-radius: ;
+}
+
+
+/* ----------------------- services --------------------- */
+.services{
+    /* background-color: rgb(24, 20, 20); */
+    color: black;
+}
+.service-img3{
+   border-radius: 100px 20px 0 10px;
+}
+.service-img2{  
+   border-radius: 0 0 100px 100px;
+}
+.service-img4{
+   border-radius: 50% 50% 50% 50%;
+}
+.service-img5{
+   border-radius: 0 50% 0 50%;
+}
+
+
+.service-img1:hover{
+   box-shadow: 5px 5px 2px white;
+}
+.service-img2:hover{
+   box-shadow: 5px 5px 2px white;
+}
+.service-img3:hover{
+    box-shadow: 5px 5px 2px white;
+}
+.service-img4:hover{
+   box-shadow: 5px 5px 2px white;
+}
+.service-img5:hover{
+   box-shadow: 5px 5px 2px white;
+}
+.service-img1{
+   border-radius: 100px 100px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* //////////////////////////////////// about ////////////////////////////////////  */
+
+.about-section{
+ }
+
+.about-section video{
+    border-radius: 50% 0 50% 0;
+}
+.about-section button{
+    border-radius: 10px;
+}
+.about-img{
+    border-radius: 0 50% 0 50%;
+}
+
+.btn-about{
+   color: black;
+   border: 2px solid black;
+   padding: 10px 20px 10px 20px;
+}
+.btn-about:hover{
+    background-color: rgb(32, 49, 86);
+    color: white;
+}
+.line{
+    height: 5px;
+    width: 35%;
+    background:white;
+    display: inline-block;
+}
+
+
+/* -----------------------footer----------------- */
+.footer{
+    background-color: rgb(48, 48, 74);
+}
+.footer .inkedin{
+    color: blue;
+}
+.footer .facebook{
+    color: blue;
+}
+.footer .whatsapp{
+    color: green;
+}
